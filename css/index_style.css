@@ -1,0 +1,16 @@
+body
+{
+    font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+header
+{
+    height: 70vh;
+    background: linear-gradient(90deg , #b06afe , #40a6ff);
+}
+.side-header
+{
+    background-image: url(../images/sphere.png);
+    background-size: cover;
+}
